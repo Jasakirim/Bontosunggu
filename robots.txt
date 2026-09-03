@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://spxexpressbontosunggu.com/sitemap.xml
+Sitemap: https://bontosunggu.spxexpress.info/sitemap.xml
 
 Disallow: /cgi-bin/
 Disallow: /admin/
